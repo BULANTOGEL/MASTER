@@ -1,0 +1,78 @@
+<style>
+.BULANTOGEL {
+width: 100%;
+height: 200px;
+}
+
+</style>
+
+<script>
+$('<div class="BULANTOGEL"><div><img src="https://i.imgur.com/vxgLOG4.jpg" style="padding-top:0px;" alt="Togel Online" height="100%" width="100%"></div><div><img src="https://i.imgur.com/w1nbU1y.jpg" style="padding-top:0px;" alt="Togel Online" height="100%" width="100%"></div><div><img src="https://i.imgur.com/r6sKN1j.jpg" style="padding-top:0px;" alt="Bandar SGP" height="100%" width="100%"></div>')
+.insertBefore($('.wrapper2'));
+
+</script>
+
+<script type='text/javascript'>
+
+jQuery(".BULANTOGEL").cycle({
+fx: 'fade',
+timeout: 3000,
+
+});
+
+</script>
+
+
+<style type="text/css">
+body {
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    color: #fff;
+    background: url(http://bulantogel.com/assets/img/abp/bg.jpg);
+}
+div.col-sm-0 span{
+	display: none;
+}
+div.social{
+	width: 100%;
+	background-image: url(https://i.imgur.com/1SHCzVn.jpg);
+	background-size: contain;
+	padding: 5px 1px 10px 1px;
+	margin: auto;
+	text-align: center;
+}
+#ico{
+	background: #131313;
+	padding: 5px 15px 5px 15px;
+	color: #fff;
+	text-decoration: none;
+	border-radius: 5px;
+	margin: 5px 3px;
+	border: .5px solid #ffffff;
+	display: inline-block;
+}
+div.social img {
+	vertical-align: middle;
+	display: inline;
+}
+div.social p {
+	display: inline-block;
+	font-size: 14px;
+}
+</style>
+
+
+<script type='text/javascript'>
+$(document).ready(function() {
+$('img#closed').click(function(){
+$('#btm_banner').hide(90);
+});
+
+$('<div class="social"><a id="ico" href="https://www.facebook.com/groups/bulantogel/" target="_blank"><img src="http://sinardewa.com/ico/fb.png"> <p>Facebook</p></a><a id="ico" href="https://api.whatsapp.com/send?phone=6285273289346&text=Hello%20Bulantogel" target="_blank"><img src="http://sinardewa.com/ico/wa.png"> <p>Whatsapp</p></a><a id="ico" href="https://www.instagram.com/bulantogel_/" target="_blank"><img src="http://sinardewa.com/ico/ig.png"> <p>Instagram</p></a></div>').insertBefore($('.inner-wrap'));
+
+
+});
+
+</script>
