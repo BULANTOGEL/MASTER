@@ -32,10 +32,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c9ad6f', end
 color: #ffffff;
 
 }
-.results {
-background: #004b8300;
-	
-}
 
 .results > h4 > i {
     color: #01baf0 !important;
