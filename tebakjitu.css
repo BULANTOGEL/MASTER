@@ -1,7 +1,15 @@
 .navbar-fixed-top {
     background-color: #0b0b0b;
     border: #0b0b0b;
+}
 
+.navbar-fixed-top .navbar-header .navbar-brand {
+    padding: 0;
+    margin-left: 0;
+    width: 210px;
+    height: 63px;
+    background: url(https://1.bp.blogspot.com/-be67GryOMiw/XobSERjf-BI/AAAAAAAAABc/VImnEWjuaKUcC3NahJq_6P3urCPFHeG9gCLcBGAsYHQ/s1600/BULANTOTO.png) no-repeat;
+    background-size: 210px 63px;
 
 }
 
@@ -59,8 +67,25 @@ h4 {
 
 }
 .results-detail{
-color: #01baf0;
+color: #b78534;
 
+}
+
+.results-detail {
+    width: 100%;
+    display: inline-block;
+    background: rgb(0, 0, 0);
+    padding: 5px 15px;
+    color: #ffffff;
+    border: 1px solid #b78534;
+    -webkit-transition: all 0.25s linear;
+    -moz-transition: all 0.25s linear;
+    transition: all 0.25s linear;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+    border-radius: 4px;
 }
 
 .blog-sidebar .nav.menu > li > a > i {
