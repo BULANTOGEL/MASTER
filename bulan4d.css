@@ -1,2 +1,8 @@
+body {
+background: #0b0b0b url("http://jambitoto.com/assets/img/afp/bg.jpg") center no-repeat !important;
+background-size: 100% 100% !important;
+background-attachment: fixed !important;
+}
+
 #footer {
 background-color: rgba(0,0,0,0.6) !important;
