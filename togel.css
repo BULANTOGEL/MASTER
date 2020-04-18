@@ -67,17 +67,7 @@ h4 {
 .results-detail{
 color: #01baf0;
 
-}
-
-.blog-sidebar .nav.menu > li > a > i {
-    
-    color: #ff0000 !important;
-}
-
-.blog-sidebar .nav.menu > li > a {
-    color: #dadada !important;
-    border-bottom: 1px solid #01baf0 !important;
-}    
+}  
 
 .section .container {
     background: #0b0b0bd9 !important;
